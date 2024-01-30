@@ -2,6 +2,8 @@
     background-image: url(bar-ge003af24c_1280\ 1.png);
     height: 177px;
     width: 360px; 
+    margin: 0% !important;
+    padding: 0% !important;
 }
 #trompette{
     width: 168px;
@@ -15,4 +17,8 @@ h2{
 }
 #div-trompette{
     background-color: beige;
+}
+#andre{
+    width: 360px;
+    height: 194px;
 }
