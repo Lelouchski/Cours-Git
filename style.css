@@ -1,9 +1,15 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
 #head{
     background-image: url(bar-ge003af24c_1280\ 1.png);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
     height: 177px;
     width: 360px; 
-    margin: 0% !important;
-    padding: 0% !important;
+    background-color: red;
 }
 #trompette{
     width: 168px;
@@ -21,4 +27,11 @@ h2{
 #andre{
     width: 360px;
     height: 194px;
+}
+hr{
+    border-color: red;
+    border-width: 2px;
+}
+#carte{
+    border-radius: 16px;
 }
